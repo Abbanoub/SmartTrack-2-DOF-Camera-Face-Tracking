@@ -2,10 +2,6 @@
 
 An automated face-tracking camera system that uses Computer Vision to detect human faces and controls a 2-DOF (Degree of Freedom) Pan-Tilt mechanism via Arduino to keep the face centered in the frame.
 
-## 📺 Demo
-![Project Demo](./Demo/project_demo.mp4) 
-*(Note: You can also replace this with a GIF for better preview on GitHub)*
-
 ## 🚀 Features
 - **Real-time Tracking:** Uses MediaPipe for high-speed face detection.
 - **Smooth Motion:** Implements a smoothing algorithm for servo transitions to avoid jitter.
